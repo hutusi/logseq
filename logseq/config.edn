@@ -165,7 +165,7 @@
  :ref/default-open-blocks-level 2
 
  :ref/linked-references-collapsed-threshold 50
- :favorites ["人工智能" "人工智能名词解释" "quote"]
+ :favorites ["读书笔记" "人工智能" "人工智能名词解释" "quote"]
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
