@@ -1,0 +1,2 @@
+- #计算机理论
+- NP 是 Non-deterministic Polynomial 的缩写，即非确定性多项式集合，它包含了 P 和 NP-complete.
