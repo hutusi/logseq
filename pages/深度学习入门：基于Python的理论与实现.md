@@ -98,8 +98,8 @@
 			- 寻找最小值的梯度法称为梯度下降法（gradient descent method）
 			- 寻找最大值的梯度法称为梯度上升法（gradient ascent method）
 			- 用数学公式来表示梯度法，如下：
-			- $$ x_0 = x_0 - \eta\dfrac{\partial f}{\partial x_0}
-			  $$
-			-
+				- $$ x_0 = x_0 - \eta\dfrac{\partial f}{\partial x_0} $$
+				- $$x_1 = x_1 - \eta\dfrac{\partial f}{\partial x_0} $$
+			- $\eta$ 表示更新量，在神经网络学习中，称为 学习率（learning rate）
 -
 -
