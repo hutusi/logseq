@@ -116,5 +116,11 @@
 			- 实现 mini-batch
 - ## 误差反向传播算法
 	- 如何理解误差反向传播算法，可以通过数学公式，或者通过计算图
+	- ### 计算图
+		- computational graph
+		- 从左到右进行计算：正向传播 forward propagation
+		- 从右到左进行计算：反向传播 backward propagation
+	- ### 链式法则
+		-
 -
 -
