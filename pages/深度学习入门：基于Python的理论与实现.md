@@ -172,4 +172,13 @@
 				- 2、使用步骤1中采样到的超参数的值进行学习，通过验证数据评估识别精度
 				- 3、重复1、2，根据识别精度的结果，缩小超参数的范围
 			-
+- ## 卷积神经网络
+	- 卷积神经网络 Convolutional Neural Network CNN
+	- ### 整体结构
+		- CNN中增加了卷积层（Convolution）和池化层（Pooling）
+		- 在神经网络中，相邻层的所有神经元之间都有连接，称为**全连接**(fully-connected)，一个全连接的神经网络的例子：
+		- ![image.png](../assets/image_1699766755097_0.png)
+		- CNN中增加卷积层和池化层，（池化层有时被省略）：即"Affine - ReLU"连接被替换成了"Convolution - ReLU - (Pooling)"连接。靠近输出层仍使用 "Affine - ReLU"，输出层使用 "Affine - Softmax"
+		- ![image.png](../assets/image_1699766796182_0.png)
+		-
 -
