@@ -190,4 +190,12 @@
 	- ### CNN的实现
 		- 略
 	- ### CNN的可视化
+		- 略
+	- ### 代表性的CNN
+		- LeNet: 手写数字识别的网络
+		- AlexNet: 叠有多个卷积层和池化层，结构上和LeNet差不多，但有如下的差异：
+			- 激活函数使用ReLU
+			- 使用进行局部正规化的LRN层(Local Response Normalization)
+			- 使用Dropout
+			-
 -
