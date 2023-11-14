@@ -198,4 +198,9 @@
 			- 使用进行局部正规化的LRN层(Local Response Normalization)
 			- 使用Dropout
 			-
+- ## 深度学习
+	- ### 加深网络
+		- 略
+	- ### 深度学习小历史
+	-
 -
