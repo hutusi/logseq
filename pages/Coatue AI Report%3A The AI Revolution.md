@@ -127,6 +127,26 @@
 	- ![image.png](../assets/image_1700307697607_0.png)
 	- ![image.png](../assets/image_1700307725463_0.png)
 	-
+	- AI 应用
+	- ![image.png](../assets/image_1700307761515_0.png)
+	- AI copilot 和 autopilot
+	- ![image.png](../assets/image_1700307816824_0.png)
+	- ![image.png](../assets/image_1700307847420_0.png)
+	- ![image.png](../assets/image_1700307880265_0.png)
+	- ![image.png](../assets/image_1700307909848_0.png)
+	- ![image.png](../assets/image_1700307946707_0.png)
+	- ![image.png](../assets/image_1700307982952_0.png)
+	- ![image.png](../assets/image_1700308017337_0.png)
+	- ![image.png](../assets/image_1700308046766_0.png)
+	- ![image.png](../assets/image_1700308074065_0.png)
+	- ![image.png](../assets/image_1700308103506_0.png)
+	- ![image.png](../assets/image_1700308134782_0.png)
+	- ![image.png](../assets/image_1700308166515_0.png)
+	- ![image.png](../assets/image_1700308192707_0.png)
+	- ![image.png](../assets/image_1700308224580_0.png)
+	- ![image.png](../assets/image_1700308257313_0.png)
+	-
+- # Coatue view: the best of AI is yet to come
 	-
 	-
 	-
