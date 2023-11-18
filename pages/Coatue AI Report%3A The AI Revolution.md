@@ -83,6 +83,27 @@
 	- ![image.png](../assets/image_1700306400642_0.png)
 	- ![image.png](../assets/image_1700306430430_0.png)
 	- ![image.png](../assets/image_1700306502004_0.png)
+	- ![image.png](../assets/image_1700306550926_0.png)
+	- 数据是最关键的部分：
+	- ![image.png](../assets/image_1700306593864_0.png)
+	- ![image.png](../assets/image_1700306638082_0.png)
+	- ![image.png](../assets/image_1700306667702_0.png)
+	- 数据质量跟数据数量一样重要：
+	- ![image.png](../assets/image_1700306710030_0.png)
+	- ![image.png](../assets/image_1700306741298_0.png)
+	- 用户反馈
+	- ![image.png](../assets/image_1700306790086_0.png)
+	- ![image.png](../assets/image_1700306826399_0.png)
+	-
+	- AI基础设施
+	- ![image.png](../assets/image_1700306856137_0.png)
+	- ![image.png](../assets/image_1700306901856_0.png)
+	- ![image.png](../assets/image_1700306943976_0.png)
+	- ![image.png](../assets/image_1700306979057_0.png)
+	- ![image.png](../assets/image_1700307020374_0.png)
+	- ![image.png](../assets/image_1700307052728_0.png)
+	- ![image.png](../assets/image_1700307101977_0.png)
+	- ![image.png](../assets/image_1700307131302_0.png)
 	-
 	-
 	-
