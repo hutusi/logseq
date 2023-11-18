@@ -6,4 +6,20 @@
 	- 总结观点：最好的AI还没有出现
 	- ![image.png](../assets/image_1700303522669_0.png)
 - # Where we are in AI today
+	- 1990：互联网起步；
+	- 2005：移动互联网起步
+	- 2020：AI时代起步
+	- ![image.png](../assets/image_1700303583374_0.png)
+	- 2023年上半年，AI生态爆炸
+	- ![image.png](../assets/image_1700303700739_0.png)
+	- ![image.png](../assets/image_1700303764974_0.png)
+	- AI应用比以往的新技术都要快：
+	- ![image.png](../assets/image_1700303819237_0.png)
+	- ![image.png](../assets/image_1700303904761_0.png)
+	- ![image.png](../assets/image_1700303964478_0.png)
+	- ![image.png](../assets/image_1700304083494_0.png)
+	- ![image.png](../assets/image_1700304126078_0.png)
+	-
+- # AI
+	-
 	-
