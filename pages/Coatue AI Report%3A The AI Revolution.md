@@ -36,6 +36,21 @@
 	- ![image.png](../assets/image_1700304639612_0.png)
 	- AI游客退场，AI严肃构建者留下
 	- ![image.png](../assets/image_1700304673437_0.png)
+	- ![image.png](../assets/image_1700304779603_0.png)
+	-
+	- ![image.png](../assets/image_1700304812734_0.png)
+	- ![image.png](../assets/image_1700304850678_0.png)
+	- AI变得更好，更快
+	- ![image.png](../assets/image_1700304884253_0.png)
+	- ![image.png](../assets/image_1700304917361_0.png)
+	- ![image.png](../assets/image_1700304954661_0.png)
+	- ![image.png](../assets/image_1700304982953_0.png)
+	- AI被证明有价值：
+	- ![image.png](../assets/image_1700305046553_0.png)
+	- AI对生产力的提升是巨大的:
+	- ![image.png](../assets/image_1700305094682_0.png)
+	- ![image.png](../assets/image_1700305134690_0.png)
+	- ![image.png](../assets/image_1700305176297_0.png)
 	-
 	-
 	-
