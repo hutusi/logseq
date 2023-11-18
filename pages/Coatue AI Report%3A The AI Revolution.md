@@ -51,6 +51,26 @@
 	- ![image.png](../assets/image_1700305094682_0.png)
 	- ![image.png](../assets/image_1700305134690_0.png)
 	- ![image.png](../assets/image_1700305176297_0.png)
+	- 知识工作，比如咨询，会被AI改变：
+	- ![image.png](../assets/image_1700305364850_0.png)
+	-
+- # We believe open-source is the lifeblood of AI
+	- AI 生于开放，是开放研究的成果
+	- ![image.png](../assets/image_1700305486251_0.png)
+	- ![image.png](../assets/image_1700305525739_0.png)
+	- ![image.png](../assets/image_1700305574479_0.png)
+	- ![image.png](../assets/image_1700305607759_0.png)
+	- ![image.png](../assets/image_1700305637136_0.png)
+	- ![image.png](../assets/image_1700305674580_0.png)
+	- ![image.png](../assets/image_1700305705557_0.png)
+	- ![image.png](../assets/image_1700305748341_0.png)
+	- 数据很重要：
+	- ![image.png](../assets/image_1700305790459_0.png)
+	- ![image.png](../assets/image_1700305831722_0.png)
+	-
+- # AI is transforming the tech ecosystem
+	- 以AI为中心的技术生态
+	- ![image.png](../assets/image_1700305922419_0.png)
 	-
 	-
 	-
