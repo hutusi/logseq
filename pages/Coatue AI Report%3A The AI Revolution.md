@@ -20,6 +20,23 @@
 	- ![image.png](../assets/image_1700304083494_0.png)
 	- ![image.png](../assets/image_1700304126078_0.png)
 	-
-- # AI
+- # AI could break through the hype and improve our world
+	- AI 不是吹嘘
+	- ![image.png](../assets/image_1700304229213_0.png){:height 400, :width 748}
+	- ![image.png](../assets/image_1700304320713_0.png)
+	- ![image.png](../assets/image_1700304351830_0.png)
+	- 云的投资资金主要在SaaS层
+	- ![image.png](../assets/image_1700304407715_0.png)
+	- AI 投资当前主要在大模型：
+	- ![image.png](../assets/image_1700304505460_0.png)
+	- 当前还不知道哪家大模型公司会赢
+	- ![image.png](../assets/image_1700304550831_0.png)
+	- AI 比以往的技术发展都要快：
+	- ![image.png](../assets/image_1700304596721_0.png)
+	- ![image.png](../assets/image_1700304639612_0.png)
+	- AI游客退场，AI严肃构建者留下
+	- ![image.png](../assets/image_1700304673437_0.png)
+	-
+	-
 	-
 	-
