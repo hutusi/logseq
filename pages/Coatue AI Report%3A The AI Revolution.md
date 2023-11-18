@@ -104,6 +104,28 @@
 	- ![image.png](../assets/image_1700307052728_0.png)
 	- ![image.png](../assets/image_1700307101977_0.png)
 	- ![image.png](../assets/image_1700307131302_0.png)
+	- ![image.png](../assets/image_1700307156544_0.png)
+	- ![image.png](../assets/image_1700307189775_0.png)
+	- ![image.png](../assets/image_1700307216715_0.png)
+	- ![image.png](../assets/image_1700307243908_0.png)
+	- ![image.png](../assets/image_1700307270332_0.png)
+	- ![image.png](../assets/image_1700307296679_0.png)
+	- ![image.png](../assets/image_1700307323439_0.png)
+	- ![image.png](../assets/image_1700307346039_0.png)
+	-
+	- 新的开发工具：
+	- ![image.png](../assets/image_1700307397065_0.png)
+	- AIOps：
+	- ![image.png](../assets/image_1700307442651_0.png)
+	- 数据标注工具：
+	- ![image.png](../assets/image_1700307477685_0.png)
+	- ![image.png](../assets/image_1700307523420_0.png)
+	- ![image.png](../assets/image_1700307550542_0.png)
+	- ![image.png](../assets/image_1700307576777_0.png)
+	- ![image.png](../assets/image_1700307609507_0.png)
+	- ![image.png](../assets/image_1700307649805_0.png)
+	- ![image.png](../assets/image_1700307697607_0.png)
+	- ![image.png](../assets/image_1700307725463_0.png)
 	-
 	-
 	-
