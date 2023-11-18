@@ -69,8 +69,20 @@
 	- ![image.png](../assets/image_1700305831722_0.png)
 	-
 - # AI is transforming the tech ecosystem
-	- 以AI为中心的技术生态
+	- 以AI为中心的技术生态，AI的中心是基础大模型
 	- ![image.png](../assets/image_1700305922419_0.png)
+	- ![image.png](../assets/image_1700305975478_0.png)
+	- 过去50年都是在构建越来越快的“计算机器”，下个50年则是要构建更加智能的“大脑”
+	- ![image.png](../assets/image_1700306049934_0.png)
+	- ![image.png](../assets/image_1700306094827_0.png)
+	- AI平台：IQaaS
+	- ![image.png](../assets/image_1700306207841_0.png)
+	- ![image.png](../assets/image_1700306239046_0.png)
+	- ![image.png](../assets/image_1700306284640_0.png)
+	- ![image.png](../assets/image_1700306372416_0.png)
+	- ![image.png](../assets/image_1700306400642_0.png)
+	- ![image.png](../assets/image_1700306430430_0.png)
+	- ![image.png](../assets/image_1700306502004_0.png)
 	-
 	-
 	-
