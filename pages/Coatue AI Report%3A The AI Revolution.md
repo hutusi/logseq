@@ -147,6 +147,23 @@
 	- ![image.png](../assets/image_1700308257313_0.png)
 	-
 - # Coatue view: the best of AI is yet to come
+	- 1、未来的编程语言是英语
+	- ![image.png](../assets/image_1700308394622_0.png)
+	- 2、设备上的AI会更加普及
+	- ![image.png](../assets/image_1700308443352_0.png)
+	- 3、大规模的AI将是个巨大的工程挑战
+	- ![image.png](../assets/image_1700308496004_0.png)
+	- 4、私有数据将解锁新的应用场景
+	- ![image.png](../assets/image_1700308551115_0.png)
+	- 5、多模态将成为创新前沿
+	- ![image.png](../assets/image_1700308609782_0.png)
+	- 6、架构新的突破将到来
+	- ![image.png](../assets/image_1700308663926_0.png)
 	-
+	- 广阔的新机会空间
+	- ![image.png](../assets/image_1700308721762_0.png)
 	-
+		-
+- 附录
+	- ![image.png](../assets/image_1700308801927_0.png)
 	-
