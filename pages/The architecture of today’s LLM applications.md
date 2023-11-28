@@ -1,0 +1,6 @@
+## 构建LLM应用五步法
+- ![Diagram that lists the five steps to building a large language model application. Data source for diagram is detailed here: https://github.blog/?p=74969&preview=true#five-steps-to-building-an-llm-app](https://github.blog/wp-content/uploads/2023/10/FivestepstobuildingLLMapp.png?resize=1022%2C537)
+-
+- ## LLM app 架构
+- ![Flow chart that reads from right to left, showing components of a large language model application and how they all work together. Data source for diagram is detailed here: https://github.blog/?p=74969&preview=true#the-emerging-architecture-of-llm-apps](https://github.blog/wp-content/uploads/2023/10/LLMapparchitecturediagram.png?resize=4088%2C2148)
+-
