@@ -1,4 +1,5 @@
-## 构建LLM应用五步法
+- 原文： https://github.blog/2023-10-30-the-architecture-of-todays-llm-applications/
+- ## 构建LLM应用五步法
 - ![Diagram that lists the five steps to building a large language model application. Data source for diagram is detailed here: https://github.blog/?p=74969&preview=true#five-steps-to-building-an-llm-app](https://github.blog/wp-content/uploads/2023/10/FivestepstobuildingLLMapp.png?resize=1022%2C537)
 -
 - ## LLM app 架构
