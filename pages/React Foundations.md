@@ -28,3 +28,7 @@
 -
 - ![image.png](../assets/image_1713665429370_0.png)
 -
+- ## 渲染UI (Rendering User Interfaces)
+- 浏览器通过解析HTML来生成DOM
+- ![image.png](../assets/image_1713665811792_0.png)
+-
