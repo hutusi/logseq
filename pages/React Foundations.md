@@ -29,6 +29,8 @@
 - ![image.png](../assets/image_1713665429370_0.png)
 -
 - ## 渲染UI (Rendering User Interfaces)
-- 浏览器通过解析HTML来生成DOM
+- 浏览器通过解析HTML来生成DOM (Document Object Model)
 - ![image.png](../assets/image_1713665811792_0.png)
+-
+- DOM（文档对象模型）是W3C的标准，定义了访问HTML和XML文档的标准。它是网络文档的编程接口，与平台、语言、浏览器等无关，允许程序和脚本动态的访问和更新文档的内容、结构和样式。DOM将文档表示为节点和对象，这样，编程语言就可以与页面交互。
 -
