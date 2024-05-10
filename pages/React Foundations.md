@@ -42,4 +42,15 @@
 	- 声明式编程是告诉计算机需要什么，无需一步步操作。
 - React是声明式编程的Library
 -
+- ## React
+- React主要包含两个库: react, react-dom
+-
+- JSX 三条规则：
+	- ### Return a single root element
+	  logseq.order-list-type:: number
+	- ### Close all the tags 
+	  logseq.order-list-type:: number
+	- ### camelCase   ~~all~~   most of the things!
+	  logseq.order-list-type:: number
+-
 -
