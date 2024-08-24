@@ -1,4 +1,18 @@
-#
-- 开始使用 BERT
-- ## 1.1 Transformer概览
 -
+- BERT = Bidirectional Encoder Representations from Transformers
+-
+- # 开始使用 BERT
+- ## 1 Transformer概览
+- ### 1.1 Transformer 简介
+- RNN和LSTM都用于时序任务，如文本预测、机器翻译、文章生成等，问题是如何记录长期依赖（？）。
+- Transformer为解决这个问题而生。
+- Transformer依赖于注意力极致，摒弃了循环。
+-
+- Transformer基本工作原理：
+- (文本) --> 编码器 --> (特征) --> 解码器 --> (文本)
+-
+-
+- ### 1.2 理解编码器
+- Transformer中编码器不止一个，而是由一组 N 个编码器串联而成。一个编码器的输出作为下一个编码器的输入，编码器的主要功能就是提取原句中的特征。
+- 编码器可以分解为两个部分：
+- 多头注意力层 --> 前馈网络层
