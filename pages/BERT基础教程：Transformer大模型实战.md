@@ -59,8 +59,12 @@
 -
 - 4、最后一步是计算注意力矩阵 $$Z$$: 将分数矩阵 $$softmax(\frac {Q \cdot K^T} {\sqrt{d_K}} )$$ 乘以 值矩阵 V 得到。
 - ![image.png](../assets/image_1724554314956_0.png)
+- 注意力矩阵Z就是值向量与分数加权之后求和所得到的结果，这样便于模型理解词的之间的相关度，比如例句中的 A dog ate the food because it was hungry, 计算it的自注意力值：
+- ![image.png](../assets/image_1724554761532_0.png)
 -
+- 自注意力矩阵公式：
+- $$Z = softmax(\frac {Q \cdot K^T} {\sqrt{d_K}} ) \times V $$
 -
--
+- 总结下自注意力机制的计算步骤
 -
 -
